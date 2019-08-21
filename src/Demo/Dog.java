@@ -55,5 +55,4 @@ public class Dog {
         return SEX_FEMALE;
     }
 
-
 }
