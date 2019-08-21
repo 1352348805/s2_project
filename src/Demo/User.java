@@ -36,7 +36,7 @@ public class User {
                 if (penSexSelect.equals("1")) {
                     penguin.setSex(penguin.SEX_MALE);
                 } else if (penSexSelect.equals("2")) {
-                    penguin.setSex(Dog.SEX_FEMALE);
+                    penguin.setSex(penguin.SEX_FEMALE);
                 } else {
                     System.out.println("没有这个选项");
                     break;
