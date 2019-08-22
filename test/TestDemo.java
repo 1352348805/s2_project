@@ -8,5 +8,6 @@ public class TestDemo {
         c.setWide(10);
         double area = c.GraphArea();
         System.out.println("面积是：" +area);
+
     }
 }
