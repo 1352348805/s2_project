@@ -2,6 +2,7 @@ package Animal;
 
 public class Frog extends Animal {
 
+    @Override
     public void LockDestination(){
         super.LockDestination();
         System.out.println("用舌头抓获");
