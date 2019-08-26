@@ -11,6 +11,8 @@ public class Niu {
             Yue yue = (Yue)friend;
             yue.eat();
             yue.play();
+
+
         }
     }
 }
