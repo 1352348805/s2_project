@@ -3,6 +3,7 @@ import classDemo.Animal;
 import classDemo.Cat;
 import classDemo.People;
 import org.junit.Test;
+import page116x4.Store;
 import page88x5.DotMatrixPrinter;
 import page88x5.InkpetPrinter;
 import page88x5.LaserPrinter;
@@ -39,4 +40,6 @@ public class TestDemo {
         niu.serveFriend(wang);
 
     }
+
+
 }

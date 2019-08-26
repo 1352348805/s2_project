@@ -1,14 +1,12 @@
 package CarRental;
 
 
-public class MotoVehicle {
+public abstract class MotoVehicle {
 
     private String no;
     private String brand;
 
-    public int calRent(int days){
-        return 0;
-    }
+    public abstract int calRent(int days);
 
     public String getNo() {
         return no;

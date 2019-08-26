@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/unit2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/ss" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/unit3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unit4" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
