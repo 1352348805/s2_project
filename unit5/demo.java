@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class demo {
@@ -8,6 +9,8 @@ public class demo {
         } catch (Exception ex) {
             if (ex instanceof Ex){
                 System.out.println("不能大于100");
+            }else if (ex instanceof InputMismatchException){
+                System.out.println("输入有误");
             }
         }
 
