@@ -58,6 +58,6 @@ public class Page<T> {
 class Phone{
 
 }
-class Eat{
+class Food{
 
 }
