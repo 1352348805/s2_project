@@ -13,7 +13,7 @@ public class Page<T> {
 
 
     /**
-     * 调节当前页数 初始载入时、用户调整单页显示的数量时发生
+     * 调节总页数 初始载入时、用户调整单页显示的数量时发生
      */
     private void adjustmentPage(){
         int page = allRecordCount/showRecordCount;
