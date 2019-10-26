@@ -1,6 +1,6 @@
-package DAO模式;
 
-import java.sql.*;
+
+import java.sql.ResultSet;
 
 public class NewDaoMysqlImpl extends BaseDao implements NewDao {
 

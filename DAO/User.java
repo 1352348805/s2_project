@@ -1,5 +1,3 @@
-package DAO模式;
-
 public class User {
     private Integer uid;
     private String uname;

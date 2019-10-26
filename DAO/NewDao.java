@@ -1,4 +1,4 @@
-package DAO模式;
+
 
 public interface NewDao {
     int add(User user);

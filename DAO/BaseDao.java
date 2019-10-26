@@ -1,5 +1,3 @@
-package DAO模式;
-
 import java.sql.*;
 
 public class BaseDao {
