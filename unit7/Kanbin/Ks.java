@@ -19,7 +19,7 @@ public class Ks extends Thread{
                     break;
                 }
                 i++;
-                System.out.println("特需号：第"+i+"号病人！");
+                System.out.println(this.getName() + "号：第"+i+"号病人！");
             }
 
             try {

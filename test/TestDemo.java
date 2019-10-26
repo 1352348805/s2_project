@@ -13,7 +13,7 @@ import page89x6.Niu;
 import page89x6.Wang;
 
 public class TestDemo {
-
+    //inheritance extend super override constructor overload abstract graduate
     @Test
     public void t1() {
         Animal cat = new Cat("莉莉");
